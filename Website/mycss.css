@@ -1,0 +1,41 @@
+#nav {
+	font-family: midEvilFont;
+	font-size: 14px;
+	color: #941D1F;
+	text-decoration: underline;
+
+}
+#header{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: #C8E90F;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: black;
+	font-size:30px;
+	font-family:midEvilFont;
+	}
+#footer{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	background-color:black;
+	font-size:30px;
+	color:#C8E90F;
+	font-family:midEvilFont;
+}
+
+@font-face {
+    font-family: midEvilFont;
+    src: url(fonts/RINGM.TTF);
+}
+
+
+#p2{
+	font-size:20px;
+	text-align:center;
+	
+}
